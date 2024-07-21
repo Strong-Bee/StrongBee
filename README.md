@@ -7,5 +7,5 @@
   <a href=""><img src="https://img.shields.io/badge/YouTube-red?style=for-the-badge&logo=youtube&logoColor=white" alt="Youtube Badge"/></a>
 </div>
 <hr>
-  <a href=""><img src="https://img.shields.io/badge/White?logo=laravel&logoColor=red&logoWidth=3o0" alt="Youtube Badge"/></a>
+  <img src="https://img.shields.io/badge/-Laravel-white?logo=laravel&logoColor=red&logoWidth=300&logoWidth=300"/>
 </div>
