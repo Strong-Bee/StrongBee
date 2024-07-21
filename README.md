@@ -9,5 +9,5 @@
 <hr>
   <img src="https://img.shields.io/badge/-Laravel-white?logo=laravel&logoColor=red&logoWidth=300&logoWidth=300"/>
   <img src="https://img.shields.io/badge/-CI4-white?logo=codeIgniter&logoColor=red&logoWidth=300&logoWidth=300"/>
-  <img src="https://img.shields.io/badge/with%20a%20logo-grey?style=for-the-badge&logo=javascript"/>
+  <img src="https://img.shields.io/badge/style=for-the-badge&logo=javascript"/>
 </div>
