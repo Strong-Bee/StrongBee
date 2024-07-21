@@ -6,5 +6,6 @@
   <a href=""><img src="https://img.shields.io/badge/Instagram-blue?style=for-the-badge&logo=Instagram&logoColor=white,purple" alt="Instagram Badge"/></a>
   <a href=""><img src="https://img.shields.io/badge/YouTube-red?style=for-the-badge&logo=youtube&logoColor=white" alt="Youtube Badge"/></a>
 </div>
-</div>
 <hr>
+  https://img.shields.io/badge/-Laravel-red?logo=laravel&logoColor=white&logoWidth=30
+</div>
