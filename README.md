@@ -8,4 +8,5 @@
 </div>
 <hr>
   <img src="https://img.shields.io/badge/-Laravel-white?logo=laravel&logoColor=red&logoWidth=300&logoWidth=300"/>
+  <img src="https://img.shields.io/badge/-Laravel-white?logo=ci4&logoColor=red&logoWidth=300&logoWidth=300"/>
 </div>
